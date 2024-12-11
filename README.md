@@ -83,7 +83,7 @@
 
     <footer>
         <p><strong>CHÀO MỪNG MỌI NGƯỜI ĐẾN VỚI NHÓM 2</strong></p>
-        <img src="path-to-your-image.jpg" alt="Ảnh nhóm" style="width: 100%; max-width: 600px;">
+        
     </footer>
 </body>  
 </html>
