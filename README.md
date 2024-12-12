@@ -85,6 +85,8 @@
         <p><strong>CHÀO MỪNG MỌI NGƯỜI ĐẾN VỚI NHÓM 2</strong></p>
         
     </footer>
+<p>Link canva luyện tập - vận dụng chủ đề 4:</p>
+<p><a href="https://www.canva.com/design/DAGWUroCPRw/ZP-bIm_3tR4j89o0AFxTkA/edit?utm_content=DAGWUroCPRw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"> link canva luyện tập-vận dụng chủ đề 4</a></p>
 </body>  
 </html>
 
